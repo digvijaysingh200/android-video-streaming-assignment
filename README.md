@@ -1,3 +1,11 @@
+Demo - Video Link
+
+https://drive.google.com/file/d/1siMVpOOYBTbqAPFhM_MywKM72meQnES-/view?usp=drive_link
+
+
+
+
+
 # Android Real-Time Video Streaming System
 
 A low-latency, real-time video streaming system featuring a Kotlin/Jetpack Compose Android app that captures frames using CameraX, and a desktop receiver application written in Python (PyQt5 + OpenCV) that acts as the TCP server to display the live feed.
